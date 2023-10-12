@@ -1,1 +1,1 @@
-# Linear_regression_project
+# Linear_regression_supervised_learning
